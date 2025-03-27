@@ -33,6 +33,7 @@ Open `index.html` in your browser to view the website.
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+---
 
 ## License
 
