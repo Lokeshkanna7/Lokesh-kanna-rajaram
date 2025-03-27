@@ -1,4 +1,4 @@
----
+
 
 # Lokesh Kanna Rajaram Portfolio
 
@@ -33,11 +33,8 @@ Open `index.html` in your browser to view the website.
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
----
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
